@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControlsLib", "TestControlsLib\TestControlsLib.csproj", "{A0210317-10BF-461C-8AC9-9A32B79164E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMyControls", "TestMyControls\TestMyControls.csproj", "{3B49BC07-F362-4BB9-9DC9-6954E782C7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0210317-10BF-461C-8AC9-9A32B79164E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0210317-10BF-461C-8AC9-9A32B79164E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0210317-10BF-461C-8AC9-9A32B79164E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0210317-10BF-461C-8AC9-9A32B79164E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B49BC07-F362-4BB9-9DC9-6954E782C7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B49BC07-F362-4BB9-9DC9-6954E782C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B49BC07-F362-4BB9-9DC9-6954E782C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B49BC07-F362-4BB9-9DC9-6954E782C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90ECAB69-0884-435F-95E1-56075851E90B}
+	EndGlobalSection
+EndGlobal
